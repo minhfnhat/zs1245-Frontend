@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Revolutionize your commute with unparalleled performance and comfort",
+        "title": "Work like never before, with our cutting-edge car"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Revolutionize your commute with unparalleled performance and comfort",
+        "title": "Work like never before, with our cutting-edge car"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Revolutionize your commute with unparalleled performance and comfort",
+        "title": "Work like never before, with our cutting-edge car"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Revolutionize your commute with unparalleled performance and comfort",
+        "title": "Work like never before, with our cutting-edge car"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Revolutionize your commute with unparalleled performance and comfort",
+        "title": "Work like never before, with our cutting-edge car"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Revolutionize your commute with unparalleled performance and comfort",
+        "title": "Work like never before, with our cutting-edge car"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Revolutionize your commute with unparalleled performance and comfort",
+        "title": "Work like never before, with our cutting-edge car"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Revolutionize your commute with unparalleled performance and comfort",
+        "title": "Work like never before, with our cutting-edge car"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Work like never before, with our cutting-edge car",
+  "subtitle": "Revolutionize your commute with unparalleled performance and comfort"
+}
